@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/books/static/css/main.cdf12636.css",
+    "main.js": "/books/static/js/main.2cffc1bd.js",
+    "static/media/backgraund.jpg": "/books/static/media/backgraund.6e7f27c0ab256eebea05.jpg",
+    "static/media/Home-img.png": "/books/static/media/Home-img.eca758f3a7269509d9dc.png",
+    "index.html": "/books/index.html",
+    "main.cdf12636.css.map": "/books/static/css/main.cdf12636.css.map",
+    "main.2cffc1bd.js.map": "/books/static/js/main.2cffc1bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf12636.css",
+    "static/js/main.2cffc1bd.js"
+  ]
+}
